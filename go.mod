@@ -19,4 +19,5 @@ require (
 	golang.org/x/crypto v0.3.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/text v0.4.0 // indirect
+	solace.dev/go/messaging v1.1.0
 )
